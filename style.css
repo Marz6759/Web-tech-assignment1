@@ -1,0 +1,30 @@
+*{
+  font-family: sans-serif;
+}
+section {
+  position: absolute;
+}
+
+.hello{
+  float: right;
+}
+h2{
+  border-bottom: 4px rgb(60, 162, 205) solid;
+  width: 80px;
+}
+
+.stuff{
+  color: rgb(89, 194, 153);
+  text-decoration: none;
+}
+.text {
+  width: 290px;
+}
+button{
+  width: 290px;
+}
+.download{
+  text-decoration: underline;
+  font-size: 20px;
+  color: rgb(177, 47, 59);
+}
